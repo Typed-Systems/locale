@@ -9,5 +9,7 @@
    "user": "User",
    "RESOURCES": "RESOURCES",
    "Logout": "Logout",
+   "support-admin": "Support",
+   "user": "User",
    "validation_failed": "Please check all required fields."
 }
