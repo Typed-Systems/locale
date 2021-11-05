@@ -11,5 +11,6 @@
    "Logout": "Logout",
    "support-admin": "Support",
    "user": "User",
+   "description": "Description",
    "validation_failed": "Please check all required fields."
 }
