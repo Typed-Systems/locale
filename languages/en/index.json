@@ -1,5 +1,8 @@
 {
    "address.saved": "Address saved.",
+   "resource_saved": ":module saved.",
+   "resource_updated": ":module updated.",
+   "resource_deleted": ":module deleted.",
    "roles": "Roles",
    "permissions": "Permissions",
    "users": "Users",
@@ -10,7 +13,13 @@
    "RESOURCES": "RESOURCES",
    "Logout": "Logout",
    "support-admin": "Support",
-   "user": "User",
    "description": "Description",
+   "favicon": "Favicon",
+   "navicon": "Navicon",
+   "bg_color": "Background color",
+   "theme_color": "Theme color",
+   "base_url": "Base URL",
+   "short_url": "Short URL",
+   "bio": "Bio",
    "validation_failed": "Please check all required fields."
 }
