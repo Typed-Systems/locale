@@ -46,5 +46,11 @@
    "longitude": "Longitude",
    "age": "Age",
    "gender": "Gender",
+   "first_name": "First name",
+   "middle_name": "Middle name",
+   "last_name": "Last name",
+   "email": "E-mail",
+   "username": "Username",
+   "birth_date": "Birth date",
    "validation_failed": "Please check all required fields."
 }
